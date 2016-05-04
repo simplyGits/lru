@@ -1,6 +1,6 @@
 simply:lru
 ===
 
-Meteor package for [isaacs/node-lru-cache](https://github.com/isaacs/node-lru-cache): "A cache object that deletes the least-recently-used items.".
-
-Packaged using [elidoran/cosmos-browserify](https://github.com/elidoran/cosmos-browserify).
+deprecated
+---
+You can use [isaacs/node-lru-cache](https://github.com/isaacs/node-lru-cache) directly from npm since Meteor 1.3, see http://guide.meteor.com/using-packages.html#npm
